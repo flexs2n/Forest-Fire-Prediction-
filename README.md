@@ -25,7 +25,7 @@ To run the code, open the "linear_classification.ipynb" notebook and execute the
 **Neural Network Classifier**: This section implements a neural network classifier using Keras and reports the accuracy score.
 
 # Results
-The logistic regression model achieved an accuracy of 33.33% on the test set, while the neural network classifier achieved an accuracy of 96.67% on the same dataset.
+The logistic regression model achieved an accuracy of 33.33% on the test set, while the neural network classifier achieved an accuracy of 83.33% on the same dataset.
 
 # Conclusion
-The neural network classifier outperformed logistic regression in terms of accuracy, highlighting the usefulness of deep learning for classification tasks.
+The neural network classifier outperformed logistic regression in terms of accuracy, highlighting the usefulness of deep learning for classification tasks and the neural network has higher levels of randomness. 
