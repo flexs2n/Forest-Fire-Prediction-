@@ -20,9 +20,6 @@ tensorflow
 keras
 You can install these packages using pip.
 
-# Data
-The project uses the "iris" dataset from scikit-learn, which contains 150 instances of iris flowers, with four features each. The target variable is the type of flower, with three possible values.
-
 # Usage
 To run the code, open the "linear_classification.ipynb" notebook and execute the cells. The notebook contains two sections:
 
