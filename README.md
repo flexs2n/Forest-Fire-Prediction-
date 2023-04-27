@@ -1,6 +1,6 @@
 # Forest-Fire-Prediction-
 
-This project is an implementation of classification using Logistic Regression and Neural Network Classifier.
+This project is an implementation of classification using linear Regression and Neural Network Classifier.
 
 # Data Source
 
@@ -17,18 +17,18 @@ pandas
 matplotlib
 seaborn
 tensorflow
-keras
+
 You can install these packages using pip.
 
 # Usage
-To run the code, open the "linear_classification.ipynb" notebook and execute the cells. The notebook contains two sections:
+To run the code, open the "Forest-Fire_prediction.ipynb" notebook and execute the cells. The notebook contains two sections:
 
-**Logistic Regression**: This section implements logistic regression for linear classification and reports the accuracy score.
+**Linear Regression**: This section implements logistic regression for linear classification and reports the accuracy score.
 
 **Neural Network Classifier**: This section implements a neural network classifier using Keras and reports the accuracy score.
 
 # Results
-The logistic regression model achieved an accuracy of 33.33% on the test set, while the neural network classifier achieved an accuracy of 83.33% on the same dataset.
+The linear regression model achieved an accuracy of 33.33% on the test set, while the neural network classifier achieved an accuracy of 83.33% on the same dataset.
 
 # Conclusion
 The neural network classifier outperformed logistic regression in terms of accuracy, highlighting the usefulness of deep learning for classification tasks and the neural network has higher levels of randomness. 
