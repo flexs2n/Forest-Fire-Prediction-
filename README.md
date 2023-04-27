@@ -1,4 +1,4 @@
-# Forest-Fire-Prediction-
+# Forest-Fire-Prediction
 
 This project is an implementation of classification using linear Regression and Neural Network Classifier.
 
